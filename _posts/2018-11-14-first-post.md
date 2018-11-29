@@ -3,7 +3,6 @@ layout: post
 title: beginner car detailing kits
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+![cars](/images/carpic1.jpg)
 
-![cars](/images/carpic1)
-
+Check out these cars -- you can find out more about them [here](https://www.motortrend.com/cars/bmw/3-series/2005/rev-bmw-3series/) and [here](https://cars.usnews.com/cars-trucks/chrysler/200/2016)
